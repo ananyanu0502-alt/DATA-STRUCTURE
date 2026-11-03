@@ -89,7 +89,7 @@ int main()
 				break;
 				
 			case 4:
-				printf("Postorder Traversala:");
+				printf("Postorder Traversal:");
 				postorder(root);
 				printf("\n");
 				break;
